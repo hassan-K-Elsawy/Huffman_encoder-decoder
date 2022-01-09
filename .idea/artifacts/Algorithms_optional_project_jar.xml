@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Algorithms optional project:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Algorithms_optional_project_jar</output-path>
+    <root id="archive" name="Algorithms optional project.jar">
+      <element id="module-output" name="Algorithms optional project" />
+    </root>
+  </artifact>
+</component>
